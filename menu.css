@@ -1,0 +1,43 @@
+header{
+    color: rgb(196, 132, 13);
+    background-color: rgb(94, 201, 201);
+    border-radius: 8px;
+    
+}
+
+nav{
+    
+   
+}
+
+li{
+    text-align: center;
+   
+}
+ul{
+    list-style: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    
+}
+
+li{
+    display: inline-block;
+   margin: 10px;
+    
+}
+
+p{
+    text-align: center;
+    background-color: aqua;
+    width: 50%;
+    border: 10px solid black;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 200px;
+   
+}
